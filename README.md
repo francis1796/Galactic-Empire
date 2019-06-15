@@ -1,4 +1,7 @@
 # C# Coding Challenge 
+Overview:
+A program to determine the cost and pack breakdown for each product to save on shipping space.
+
 Instructions:
  - Run program in the console.
  - Enter path of packs.txt file
