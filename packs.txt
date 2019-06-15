@@ -1,0 +1,8 @@
+Sliced Ham|SH3|3|2.99
+Sliced Ham|SH3|5|4.49
+Yoghurt|YT2|4|4.95
+Yoghurt|YT2|10|9.95
+Yoghurt|YT2|15|13.95
+Toilet Rolls|TR|3|2.95
+Toilet Rolls|TR|5|4.45
+Toilet Rolls|TR|9|7.99
