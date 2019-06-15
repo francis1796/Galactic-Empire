@@ -1,4 +1,4 @@
-#C# coding challenge
+C# coding challenge
 Instructions:
  - Run program in the console.
  - Enter path of pack.txt file
